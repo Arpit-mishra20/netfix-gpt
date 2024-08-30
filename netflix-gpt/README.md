@@ -11,6 +11,14 @@
   -Create Signup User Account
   -Implement Sign in User Api
   -Created Redux Store with userSlice
+  -Implemented Sign in Using API
+  -Created redux store with userSlice
+  -Implemented Sign Out
+  -Update Profile
+  -Bugfix:Sign up user displayname and photoURL
+  -Bugfix:if the user is not logged in in Redirect/browse to Login Page and vice-versa
+  -unsubscribe to the authonstatechange
+  
 
 
 
