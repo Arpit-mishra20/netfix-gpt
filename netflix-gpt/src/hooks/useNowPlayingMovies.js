@@ -5,6 +5,7 @@ import { API_OPTIONS } from "../components/constants";
 
 const useNowPlayingMovies=()=>{
     const dispatch=useDispatch();
+    
     const nowPlayingMovies=useSelector(
       (store)=>store.movies.nowPlayingMovies
     );
